@@ -1,0 +1,2 @@
+theme.txt 안에서는 숫자 색, (), {}색은 못바꿈
+syntax 안에 default.xml을 편집해야하는데, dark랑 default랑 바꾸는 것으로 완성함
