@@ -1,2 +1,11 @@
 theme.txt 안에서는 숫자 색, (), {}색은 못바꿈
 syntax 안에 default.xml을 편집해야하는데, dark랑 default랑 바꾸는 것으로 완성함
+
+생산성 향상을 위한 추천
+
+editor.font=Consolas,bold,16
+editor.tabs.size=4
+editor.window.height.default=900
+editor.window.height.min=290
+editor.window.width.default=900
+editor.window.width.min=400
